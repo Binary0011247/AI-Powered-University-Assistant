@@ -1,0 +1,42 @@
+[
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "69 B . Tech / M.Tech (Integrated) Programmes - Regulations 2021 - Volume - 12 - CSBS - Higher Semester Syllabi - Control C opy Course Code 21CSE355T Course Name DATA MINING AND ANALYTICS Course Category E PROFESSIONAL ELECTIVE L T P C 2 1 0 3 Pre - requisite Courses Nil Co - requisite Courses Nil Progressive Courses Nil Course Offering Department School of Computing Data Book / Codes / Standards Nil Course Learning Rationale (CLR): The purpose of learning this course is to: Program Outcomes (PO) Program Specific Outcomes CLR - 1: introduce the basic concepts of pattern discovery and data preparation 1 2 3 4 5 6 7 8 9 10 11 12 CLR - 2: understand the importance of Association and Correlation Algorithms Engineering Knowledge Problem Analysis Design/development of solutions Conduct investigat"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "ration 1 2 3 4 5 6 7 8 9 10 11 12 CLR - 2: understand the importance of Association and Correlation Algorithms Engineering Knowledge Problem Analysis Design/development of solutions Conduct investigations of complex problems Modern Tool Usage The engineer and society Environment & Sustainability Ethics Individual & Team Work Communication Project Mgt. & Finance Life Long Learning PSO- 1 PSO- 2 PSO- 3 CLR - 3: comprehend and apply various Classifiers CLR - 4: work with the foundation for Clustering CLR - 5: perform Outlier Analysis and Explore a data mining tool Course Outcomes (CO): At the end of this course, learners will be able to: CO - 1: do the preprocessing of data before mining of data for patterns 1 2 - - - - - - - - - - 2 - - CO - 2: make use of Association and Correlations Algori"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "of this course, learners will be able to: CO - 1: do the preprocessing of data before mining of data for patterns 1 2 - - - - - - - - - - 2 - - CO - 2: make use of Association and Correlations Algorithms for framing association rules 1 2 - - 3 - - - - - - - 2 - - CO - 3: apply as well as Compare the performance of various classifiers 1 2 - - 3 - - - - - - - 2 - - CO - 4: utilize different Clustering algorithms for generalization 1 - - - 3 - - - - - - - 2 - - CO - 5: identify Outliers in the data given 1 2 - - 3 - - - - - - - 2 - - Unit - 1 - Data Mining Introduction 9 Hour Introduction: Kinds of Data - Kinds of Patterns - Data Objects and Attribute Type - Data Visualization - Data Preprocessing: Data cleaning, Data Integration, Data Transformation, Data Discretization and Data Reduction:"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "of Data - Kinds of Patterns - Data Objects and Attribute Type - Data Visualization - Data Preprocessing: Data cleaning, Data Integration, Data Transformation, Data Discretization and Data Reduction: Attribute Subset Selection - Histograms, Clustering, Sampling Unit - 2 - Associations and Correlations 9 Hour Market Basket Analysis \u2013 Apriori Algorithm \u2013 Mining Frequent Itemsets without Candidate Generation \u2013 Mining Frequent Itemsets Using Vertical Data Format \u2013 Mining Closed Frequent Itemsets \u2013 Mining Multilevel Association Rules \u2013 Mining Multidimensional Assoc iation Rules \u2013 Correlation Analysis \u2013 Constraint - Based Association Mining Unit - 3 - Classification and Prediction 9 Hour Basic Concepts - Decision Tree Induction - Attribute selection Measures - ID3 and CART algorithms, Tree Pruni"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "is \u2013 Constraint - Based Association Mining Unit - 3 - Classification and Prediction 9 Hour Basic Concepts - Decision Tree Induction - Attribute selection Measures - ID3 and CART algorithms, Tree Pruning - Bayes Classification Methods: Bayes \u201f Theorem, Naive Bayesian Classification - Classification by Backpropagation - Support Vector Machines - Lazy learners: KNN - Metrics for evaluating classifier performance - Techniques to improve classification accuracy - Prediction: Regression Analysis Unit - 4 - Cluster Analysis 9 Hour Cluster Analysis: Partitioning Methods - Hierarchical Methods: Agglomerative versus Divisive Hierarchical Clustering - Probabilistic Model based Clustering - BIRCH, DBSCAN, STING, CLIQUE Techniques - Evaluation of clustering Techniques Unit - 5 - Outliers and Statistica"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 1,
+        "text": "rative versus Divisive Hierarchical Clustering - Probabilistic Model based Clustering - BIRCH, DBSCAN, STING, CLIQUE Techniques - Evaluation of clustering Techniques Unit - 5 - Outliers and Statistical Approaches in Data Mining 9 Hour Introduction to outliers, Challenges in detecting Outliers,Outlier Detection Methods - Supervised, Semisupervised, Unsupervised - Statistical Data Mining approaches - Data mining in Recommender Systems,Data mining for Intrusion Detection, Data Mining for F inancial Analysis"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 2,
+        "text": "70 B . Tech / M.Tech (Integrated) Programmes - Regulations 2021 - Volume - 12 - CSBS - Higher Semester Syllabi - Control C opy Learning Resources 1. Jiawei Han and Micheline Kamber, \u201cData Mining Concepts and Techniques\u201d, Third Edition, Elsevier, 2012 2. Ian H. Witten, Eibe Frank and Mark A. Hall \u201cData Mining: Practical Machine Learning Tools and Techniques\u201d, Fourth Edition, El sevier, 2017. Learning Assessment Bloom\u2019s Level of Thinking Continuous Learning Assessment (CLA) Summative Final Examination (40% weightage) Formative CLA - 1 Average of unit test (50%) Life - Long Learning CLA - 2 (10%) Theory Practice Theory Practice Theory Practice Level 1 Remember 15% - 15% - 15% - Level 2 Understand 25% - 20% - 25% - Level 3 Apply 30% - 25% - 30% - Level 4 Analyze 30% - 25% - 30% - Level 5 Evalu"
+    },
+    {
+        "source": "21CSE355T.pdf",
+        "page": 2,
+        "text": "Theory Practice Theory Practice Theory Practice Level 1 Remember 15% - 15% - 15% - Level 2 Understand 25% - 20% - 25% - Level 3 Apply 30% - 25% - 30% - Level 4 Analyze 30% - 25% - 30% - Level 5 Evaluate - - 10% - - - Level 6 Create - - 5% - - - Total 100 % 100 % 100 % Course Designers Experts from Industry Experts from Higher Technical Institutions Internal Experts Expert Member from TCS 1. Dr. T. Ruso,Senior Project Lead, HCL Technologies, Chennai 1. Khanna Nehemiah, Associate Professor, Anna University Chennai"
+    }
+]

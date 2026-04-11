@@ -1,0 +1,4 @@
+Computer Science Department Policies
+Attendance: All students must maintain a minimum of 75% attendance to be eligible for final exams.
+Grading: The passing grade for core subjects is 50%.
+Events: The annual CS Hackathon is held every November.
