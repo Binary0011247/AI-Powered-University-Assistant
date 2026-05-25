@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore large AI model databases and uploads
+vector_db/
+data/uploads/
+temp_audio/
+
+# Ignore secrets and cache
+.env
+__pycache__/
+*.pyc
